@@ -1,0 +1,7 @@
+print('hello world')
+print('hello how are you?')
+print('i love python')
+print('i ,love,python')
+print('ilovepython*3')
+print('i''love''python')
+print('7*8')
